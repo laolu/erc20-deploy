@@ -1,0 +1,21 @@
+{
+  "network": "sepolia",
+  "timestamp": "2024-11-28T14:02:41.126Z",
+  "contracts": [
+    {
+      "name": "My DAI",
+      "symbol": "DAI",
+      "address": "0x6607b0CE0Ef51520b50B37FC1B732534CE8d24a4"
+    },
+    {
+      "name": "My USDT",
+      "symbol": "USDT",
+      "address": "0x9d6C5b366BF6ea47523b34dc0A98056893f29876"
+    },
+    {
+      "name": "My USDC",
+      "symbol": "USDC",
+      "address": "0x9Bd1AF68Abbc63195aeEA1260d1F294e7e03E511"
+    }
+  ]
+}
